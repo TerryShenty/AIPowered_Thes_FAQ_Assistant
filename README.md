@@ -28,9 +28,9 @@
 ## 🔗 快速体验 (Quick Links)
 | 角色       | 访问链接                                                                 | 说明                     |
 |------------|--------------------------------------------------------------------------|--------------------------|
-| 学生 (Student) | [学生端 Agent](https://agent.unidtai.com/chat/hCuPM73PU3rUdVtc)          | 无需授权，直接提问       |
-| 教师 (Admin)  | [教师端 Agent](https://agent.unidtai.com/chat/j8evGUnxCNN2JPwQ)          | 授权码：1905（身份验证） |
-| 项目演示 (Demo) | [Coze 商店演示](https://www.coze.cn/store/agent/7571829568286326824?bid=6iv6ue8kg1g0j) | 快速预览核心功能         |
+| 学生 (Student) | [学生端 Agent](https://www.coze.cn/store/agent/7571829568286326824?bid=6iv6ue8kg1g0j)          | 无需授权，直接提问       |
+| 教师 (Admin)  | [教师端 Agent](https://www.coze.cn/s/y0q4GOcg6uc/)          | 授权码：1905（身份验证） |
+| 问题展示 (Demo) | [飞书文档 Lark](https://l0s0bl6jrtd.feishu.cn/base/NfyFbN7IjaDuWms9EHjcxqM9nkf?table=tbltllZDLnKW1K0E&view=vewm0vrJC6) | 快速预览所有问题并手动修改状态         |
 
 ---
 
