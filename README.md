@@ -43,6 +43,33 @@
 | 意图智能引导        | 自动识别非论文相关问题，引导聚焦核心咨询场景，提升服务效率；             |
 | 紧急问题转办        | 未命中知识库的问题，可标记紧急程度+预留邮箱，自动转交教师端跟进；         |
 | 历史记录追溯        | 保存过往咨询记录，方便学生二次查阅，避免重复提问。                       |
+<br/>
+<div align="center" style="margin-bottom: 40px;">
+  <img src="assets/学生1.png" width="600" />
+  <br/>
+  <sub>图 1：学生端智能问答启动台</sub>
+  
+</div>
+<br/>
+<div align="center" style="margin-bottom: 40px;">
+  <img src="assets/学生2.png" width="600" />
+  <br/>
+  <sub>图 2：回答知识库中已包含的问题</sub>
+</div>
+<br/>
+<div align="center" style="margin-bottom: 40px;">
+  <img src="assets/学生3.png" width="600" />
+  <br/>
+  <sub>图 3：回答知识库中未包含的问题</sub>
+</div>
+<br/>
+<div align="center" style="margin-bottom: 40px;">
+  <img src="assets/学生4.png" width="600" />
+  <br/>
+  <sub>图 4：设置紧急程度并添加邮件联系方式</sub>
+</div>
+
+
 
 ### 👩‍🏫 教师端：高效管理与知识迭代
 | 功能                | 细节描述                                                                 |
@@ -52,6 +79,32 @@
 | 知识库实时更新      | 可选择将优质答案同步至学生端知识库，实现“解答一次，永久复用”；           |
 | 操作全程可追溯      | 问题处理记录同步至飞书，支持数据复盘与合规审计；                         |
 | 权限安全校验        | 4位授权码（1905）验证身份，保障学术管理权限不泄露。                     |
+<br/>
+<div align="center" style="margin-bottom: 40px;">
+  <img src="assets/老师2.png" width="600" />
+  <br/>
+  <sub>图 5：教师端验证并自动遍历飞书表格中未回答的问题</sub>
+</div>
+<br/>
+<div align="center" style="margin-bottom: 40px;">
+  <img src="assets/老师2.png" width="600" />
+  <br/>
+  <sub>图 6：教师回答问题、选择是否添加到知识库中并自动向学生发送邮件</sub>
+</div>
+<br/>
+<div align="center" style="margin-bottom: 40px;">
+  <img src="assets/邮件.png" width="300" />
+  <br/>
+  <sub>图 7：自动回复邮件内容展示</sub>
+</div>
+<br/>
+<div align="center">
+  <img src="assets/飞书.png" width="600" />
+  <br/>
+  <sub>图 8：飞书表格问题回答内容与状态自动更新</sub>
+</div>
+
+
 
 ### 🔄 服务闭环：从自助到专家的无缝衔接
 ```mermaid
